@@ -36,7 +36,7 @@ def predict_rf():
         is_weekend = request.form['is_weekend']
         is_promo = request.form['is_promo']
 
-        # Add other parameters as needed
+    
 
         # Make predictions using the loaded RandomForest model
         rf_predictions = rf_loaded_model.predict(df)
@@ -60,8 +60,7 @@ def predict_lstm():
         # Read the uploaded CSV file
         df = pd.read_csv(uploaded_file)
 
-        # Additional parameters from the frontend
-        # Add other LSTM-specific parameters if needed
+    
 
         # Make predictions using the loaded LSTM model
         lstm_predictions = lstm_loaded_model.predict(df)  # Adjust this based on your LSTM model's input requirements
