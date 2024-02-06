@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Prediction Dashboard</title>
+</head>
+<body>
+    <h1>Sales Prediction Dashboard</h1>
+    <form action="/predict_rf" method="post" enctype="multipart/form-data">
+        <label for="store_id">Store ID:</label>
+        <input type="text" name="store_id" required><br>
+
+        <label for="csv_file">Upload CSV File:</label>
+        <input type="file" name="csv_file" accept=".csv" required><br>
+
+        <!-- Add other input fields as needed -->
+
+        <input type="submit" value="Predict RandomForest">
+    </form>
+
+    <form action="/predict_lstm" method="post" enctype="multipart/form-data">
+        <label for="store_id">Store ID:</label>
+        <input type="text" name="store_id" required><br>
+
+        <label for="csv_file">Upload CSV File:</label>
+        <input type="file" name="csv_file" accept=".csv" required><br>
+
+        <!-- Add other input fields as needed -->
+
+        <input type="submit" value="Predict LSTM">
+    </form>
+</body>
+</html>
