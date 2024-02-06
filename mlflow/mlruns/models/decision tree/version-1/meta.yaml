@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1706860581950
+current_stage: None
+description: ''
+last_updated_timestamp: 1706860581950
+name: decision tree
+run_id: deba595826ef4b3db1fcd0f3586428ee
+run_link: ''
+source: file:///c:/Users/VARUN/OneDrive/Desktop/mlflow/mlruns/0/deba595826ef4b3db1fcd0f3586428ee/artifacts/DecisionTree
+  Model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/VARUN/OneDrive/Desktop/mlflow/mlruns/0/deba595826ef4b3db1fcd0f3586428ee/artifacts/DecisionTree
+  Model
+user_id: null
+version: 1

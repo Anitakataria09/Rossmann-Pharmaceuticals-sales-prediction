@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/VARUN/OneDrive/Desktop/mlflow/mlruns/0/0f1cb652518a47d4896f70a20f730741/artifacts
+end_time: 1707206982575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f1cb652518a47d4896f70a20f730741
+run_name: LinearRegression
+run_uuid: 0f1cb652518a47d4896f70a20f730741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707206978332
+status: 3
+tags: []
+user_id: VARUN

@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1706860490570
+current_stage: None
+description: ''
+last_updated_timestamp: 1706860490570
+name: linear regression
+run_id: a8e55d4b70b24d6d90cabe5bc9a587d5
+run_link: ''
+source: file:///c:/Users/VARUN/OneDrive/Desktop/mlflow/mlruns/0/a8e55d4b70b24d6d90cabe5bc9a587d5/artifacts/LinearRegression
+  Model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/VARUN/OneDrive/Desktop/mlflow/mlruns/0/a8e55d4b70b24d6d90cabe5bc9a587d5/artifacts/LinearRegression
+  Model
+user_id: null
+version: 1
